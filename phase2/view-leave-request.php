@@ -16,7 +16,7 @@
 									<div class="col-lg-10 col-md-10 pb-4 pt-4">
 										<a class="button outline_button line-height-30 float-left mx-w-120px mr-3" type="submit">Edit request</a>
 										<a class="button outline_button line-height-30 float-left mx-w-120px" type="submit">Cancel request</a><div class="clearfix"></div>
-									</div>
+									</div> 
 								</div>							
 							</div>
 						</div> 
