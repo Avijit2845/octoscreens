@@ -1,18 +1,18 @@
 @font-face {
   font-family: metropolisRegular;
-  src: url(/octoscreens/font/Metropolis-Regular.otf);
+  src: url(../font/Metropolis-Regular.otf);
 }
 @font-face {
   font-family: metropolisBold;
-  src: url(/octoscreens/font/Metropolis-Bold.otf);
+  src: url(../font/Metropolis-Bold.otf);
 }
 @font-face {
   font-family: metropolisSemiBold;
-  src: url(/octoscreens/font/Metropolis-SemiBold.otf);
+  src: url(../font/Metropolis-SemiBold.otf);
 }
 @font-face {
   font-family: metropolisMedium;
-  src: url(/octoscreens/font/Metropolis-Medium.otf);
+  src: url(../font/Metropolis-Medium.otf);
 }
 
 body, p, a, button, label, th, td, select{
